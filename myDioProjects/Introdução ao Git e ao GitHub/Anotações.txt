@@ -1,0 +1,12 @@
+https://git-scm.com/downloads
+
+Comandos básicos do cmd:
+dir - listar arquivos de um diretório
+cd nomeDiretorio - trocar diretório 
+cd .. - voltar um nível
+cls - limpar o cmd
+mkdir nomeNovoDiretorio - Criar um novo diretório
+delete nomeDiretorio - Limpar diretório
+rmdir nomeDiretorio /S /Q - Excluir diretório
+
+
